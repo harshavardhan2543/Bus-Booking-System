@@ -19,4 +19,4 @@ This is a Java-based Bus Booking System developed by a team of 4 members.
 - Sikha Sathwik
 - Tankala Harshavardhan
 - Kalisetti SreeHari
--Doddi Madhav Sai
+- Doddi Madhav Sai
